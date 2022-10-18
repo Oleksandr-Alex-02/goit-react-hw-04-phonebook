@@ -1,0 +1,21 @@
+.blok__form {
+    display: flex;
+    /* justify-content: center; */
+
+    /* margin: auto; */
+    max-width: 500px;
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    margin-right: 10px;
+}
+
+.input {
+    margin-bottom: 15px;
+}
